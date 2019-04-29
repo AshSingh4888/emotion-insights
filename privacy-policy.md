@@ -3,10 +3,8 @@ layout: default
 title: Privacy Policy
 description: Emotion Tracker
 ---
-[back](./)
 
 <p>Effective date: April 29, 2019</p>
-
 
 <p>Amihappy ("us", "we", or "our") operates the Amihappy mobile application (the "Service").</p>
 

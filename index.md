@@ -4,8 +4,6 @@ title: AmiHappy
 description: Emotion Tracker
 ---
 
-[Privacy Policy](./privacy-policy.html).
-
 ## Amihappy app provides users with their emotions(Happy, Sad, Angry and Confused) related stats in visual form.
 
 How Amihappy ( Am I Happy) works.
@@ -49,4 +47,4 @@ First I started working on it during the weekend and then things got interested 
 - Amihappy will soon be available on Google App Store
 
 ## Youtube
-- Demo 1 https://youtu.be/MGSeHiojlaE
+- [Demo 1](https://youtu.be/MGSeHiojlaE)
