@@ -1,12 +1,16 @@
-<h1>Privacy Policy</h1>
-
+---
+layout: default
+title: Privacy Policy
+description: Emotion Tracker
+---
+[back](./)
 
 <p>Effective date: April 29, 2019</p>
 
 
 <p>Amihappy ("us", "we", or "our") operates the Amihappy mobile application (the "Service").</p>
 
-<p>This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data. Our Privacy Policy  for Amihappy is created with the help of the <a href="https://www.freeprivacypolicy.com/free-privacy-policy-generator.php">Free Privacy Policy Generator</a>.</p>
+<p>This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data. </p>
 
 <p>We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions.</p>
 
@@ -28,6 +32,17 @@
 <h4>Usage Data</h4>
 
 <p>When you access the Service by or through a mobile device, we may collect certain information automatically, including, but not limited to, the type of mobile device you use, your mobile device unique ID, the IP address of your mobile device, your mobile operating system, the type of mobile Internet browser you use, unique device identifiers and other diagnostic data ("Usage Data").</p>
+
+<h4>Tracking & Cookies Data</h4>
+<p>We use cookies and similar tracking technologies to track the activity on our Service and hold certain information.</p>
+<p>Cookies are files with small amount of data which may include an anonymous unique identifier. Cookies are sent to your browser from a website and stored on your device. Tracking technologies also used are beacons, tags, and scripts to collect and track information and to improve and analyze our Service.</p>
+<p>You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.</p>
+<p>Examples of Cookies we use:</p>
+<ul>
+    <li><strong>Session Cookies.</strong> We use Session Cookies to operate our Service.</li>
+    <li><strong>Preference Cookies.</strong> We use Preference Cookies to remember your preferences and various settings.</li>
+    <li><strong>Security Cookies.</strong> We use Security Cookies for security purposes.</li>
+</ul>
 
 <h2>Use of Data</h2>
     
@@ -91,3 +106,6 @@
         <li>By email: email2ashsingh@gmail.com</li>
           
         </ul>
+
+
+[back](./)
